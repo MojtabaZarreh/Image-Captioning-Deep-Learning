@@ -23,3 +23,8 @@ In this project, I tried to play the description of the image in audio form.
 A brief overview of the results predicted by the model:
 ![download](https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/eb799e49-7b8f-48ae-9028-fbce34f01521)
 
+A short demo of code execution :
+
+https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/99908e0d-b1d3-49e4-9766-3dd14b96f5be
+
+
