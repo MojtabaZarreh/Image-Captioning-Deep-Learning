@@ -6,7 +6,7 @@ In this project, we tried to use deep neural network to insert descriptions for 
 
 I used Inception V3 for feature extraction from images.
 
-![inceptionv3onc--oview_vjAbOfw](https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/76191550-615a-4522-8f1e-e831c9c7f7a5)
+![1_gqKM5V-uo2sMFFPDS84yJw](https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/6056c81d-81cb-4899-b2f5-df31348ac50a)
 
 
 Also, LSTM has been used for the text generation process for images.
