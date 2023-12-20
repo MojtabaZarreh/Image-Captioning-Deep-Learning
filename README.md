@@ -28,3 +28,7 @@ A short demo of code execution :
 https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/99908e0d-b1d3-49e4-9766-3dd14b96f5be
 
 
+The dataset used in this project is Flickr 8k.
+
+
+![31f9977a-e7a9-4250-9aad-0320ab84df80](https://github.com/MojtabaZarreh/Image-Captioning-Deep-Learning/assets/71370569/57282661-44d0-4b15-929f-a5c0208296cd)
